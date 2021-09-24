@@ -1,0 +1,26 @@
+<div class="container"
+     fxLayout="row wrap"
+     fxLayout.sm="column"
+     fxLayout.xs="column"
+     fxLayoutAlign="center center"
+     fxLayoutGap.xs="5px">
+  <ng-container *ngFor="let brand of brands">
+    <div  class="test" fxLayoutAlign="center center"
+          [routerLink]="['/brands', brand.name.toLowerCase()]"
+    >
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title class="title">{{brand.name}}</mat-card-title>
+        </mat-card-header>
+        <div fxLayoutAlign="center center" [style.margin-bottom]="'12px'">
+          <img width="150px" height="120px" [src]="brand.img"/>
+        </div>
+        <mat-card-content>
+          <p>
+            {{brand.description}}
+          </p>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </ng-container>
+</div>

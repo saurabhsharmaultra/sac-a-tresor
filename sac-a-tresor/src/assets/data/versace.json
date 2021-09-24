@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "Versace",
+    "productName": "Black Leather",
+    "image": "./assets/images/versace/versace-01.jpg",
+    "storePrice": 1200,
+    "ourPrice": 1000,
+    "priceInr": 100000,
+    "description": ""
+  },
+  {
+    "brand": "Versace",
+    "productName": "Snake Leather Bag",
+    "image": "./assets/images/versace/versace-03.jpg",
+    "storePrice": 1200,
+    "ourPrice": 1000,
+    "priceInr": 100000,
+    "description": ""
+  },
+  {
+    "brand": "Versace",
+    "productName": "Grain Tote Leather",
+    "image": "./assets/images/versace/versace-02.jpg",
+    "storePrice": 1350,
+    "ourPrice": 1000,
+    "priceInr": 100000,
+    "description": ""
+  },
+  {
+    "brand": "Versace",
+    "productName": "Quilted Leather Shoulder Bag",
+    "image": "./assets/images/versace/versace-04.jpg",
+    "storePrice": 1380,
+    "ourPrice": 900,
+    "priceInr": 80000,
+    "description": ""
+  }
+]

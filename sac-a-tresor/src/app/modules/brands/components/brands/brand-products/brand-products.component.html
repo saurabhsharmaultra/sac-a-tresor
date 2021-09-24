@@ -1,0 +1,29 @@
+
+<div fxLayout.xs="column" fxLayout="row wrap" fxLayoutGap="50px"
+     fxLayoutAlign="center center"
+     *ngIf="productsObservable$ | async as products">
+  <mat-card
+            *ngFor="let product of products">
+    <mat-card-title>{{product.brand}}</mat-card-title>
+    <mat-card-subtitle>{{product.productName}}</mat-card-subtitle>
+    <img mat-card-image [src]="product.image" class="image">
+    <mat-card-content>Store Price:
+      <span class="store-price">
+        {{product.storePrice | currency:'EUR':true}}
+      </span>
+    </mat-card-content>
+    <hr/>
+    <mat-card-content>Our Price:
+      <span class="our-price">
+        {{product.ourPrice | currency:'EUR':true}}
+      </span>
+    </mat-card-content>
+    <hr/>
+    <mat-card-content>Price INR:
+      <span class="inr-price">
+        {{product.priceInr | currency:'INR':true}}
+      </span>
+    </mat-card-content>
+  </mat-card>
+
+</div>

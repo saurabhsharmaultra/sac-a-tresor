@@ -1,0 +1,31 @@
+
+.container {
+  margin-top: 100px;
+
+}
+
+
+mat-card {
+  border: 1px groove;
+  height: 250px;
+  width: 300px;
+  margin: 10px;
+
+&:hover {
+  background: linear-gradient(17deg, rgba(255,182,193,1) 15%, rgba(216,175,227,1) 74%);
+  cursor: pointer;
+  color: darkslategrey;
+ }
+}
+
+.title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
+img {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}

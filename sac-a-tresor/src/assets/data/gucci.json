@@ -1,0 +1,83 @@
+[
+  {
+    "brand": "Gucci",
+    "productName": "Gucci Zumi Grain Mahogany Shoulder Bag",
+    "image": "./assets/images/gucci/gucci-01.jpg",
+    "storePrice": 2500,
+    "ourPrice": 1350,
+    "priceInr": 121000,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci Zumi Grain Green Shoulder Bag",
+    "image": "./assets/images/gucci/gucci-02.jpg",
+    "storePrice": 2500,
+    "ourPrice": 1350,
+    "priceInr": 121000,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci Zumi Grain Bordeaux Handbag",
+    "image": "./assets/images/gucci/gucci-03.PNG",
+    "storePrice": 3200,
+    "ourPrice": 1850,
+    "priceInr": 166000,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci Zumi Handbag Cocco Gel",
+    "image": "./assets/images/gucci/gucci-04.jpg",
+    "storePrice": 29000,
+    "ourPrice": 12500,
+    "priceInr": 1125000,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci ShoulderBag Dollar Calf Camelia",
+    "image": "./assets/images/gucci/gucci-05.jpg",
+    "storePrice": 2180,
+    "ourPrice": 1200,
+    "priceInr": 108000,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci ShoulderBag Pattern Multicolor",
+    "image": "./assets/images/gucci/gucci-08.jpg",
+    "storePrice": 2490,
+    "ourPrice": 1700,
+    "priceInr": 150000,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci Wallet Grey",
+    "image": "./assets/images/gucci/gucci-09.jpg",
+    "storePrice": 650,
+    "ourPrice": 450,
+    "priceInr": 40500,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci Floral Jewellery Box",
+    "image": "./assets/images/gucci/gucci-10.jpg",
+    "storePrice": 2500,
+    "ourPrice":1950,
+    "priceInr": 175500,
+    "description": ""
+  },
+  {
+    "brand": "Gucci",
+    "productName": "Gucci Zumi Thiara Cocco Gel Zaffiro",
+    "image": "./assets/images/gucci/gucci-07.jpg",
+    "storePrice": 29000,
+    "ourPrice": 12500,
+    "priceInr": 1125000,
+    "description": ""
+  }
+]

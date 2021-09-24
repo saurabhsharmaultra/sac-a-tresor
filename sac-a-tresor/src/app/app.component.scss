@@ -1,0 +1,13 @@
+.fill-remaining-space {
+  /* This fills the remaining space, by using flexbox.
+     Every toolbar row uses a flexbox row layout. */
+  flex: 1 1 auto;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.mat-toolbar {
+  background: linear-gradient(17deg, rgba(255,182,193,1) 15%, rgba(216,175,227,1) 74%);
+  border-radius: 8px;
+}

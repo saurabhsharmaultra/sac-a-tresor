@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "Burberry",
+    "productName": "Banner Tan Shoulder Bag",
+    "image": "./assets/images/burberry/burberry-01.jpg",
+    "storePrice": 1250,
+    "ourPrice": 950,
+    "priceInr": 85000,
+    "description": ""
+  },
+  {
+    "brand": "Burberry",
+    "productName": "Women's Blue Medium Quilted",
+    "image": "./assets/images/burberry/burberry-02.png",
+    "storePrice": 1490,
+    "ourPrice": 1200,
+    "priceInr": 108000,
+    "description": ""
+  },
+  {
+    "brand": "Burberry",
+    "productName": "Dark Brown",
+    "image": "./assets/images/burberry/burberry-03.jpg",
+    "storePrice": 2090,
+    "ourPrice": 1600,
+    "priceInr": 144000,
+    "description": ""
+  },
+  {
+    "brand": "Burberry",
+    "productName": "Mahogany Red",
+    "image": "./assets/images/burberry/burberry-05.png",
+    "storePrice": 1290,
+    "ourPrice": 990,
+    "priceInr": 89000,
+    "description": ""
+  },
+  {
+    "brand": "Burberry",
+    "productName": "Archive Beige",
+    "image": "./assets/images/burberry/burberry-05.jpg",
+    "storePrice": 1950,
+    "ourPrice": 1500,
+    "priceInr": 135000,
+    "description": ""
+  },
+  {
+    "brand": "Burberry",
+    "productName": "Bridle Brown",
+    "image": "./assets/images/burberry/burberry-06.png",
+    "storePrice": 950,
+    "ourPrice": 800,
+    "priceInr": 72000,
+    "description": ""
+  }
+]

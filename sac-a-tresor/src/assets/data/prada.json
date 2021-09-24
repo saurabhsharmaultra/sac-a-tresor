@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "Prada",
+    "productName": "Black Quilted Bag",
+    "image": "./assets/images/prada/prada-01.jpg",
+    "storePrice": 990,
+    "ourPrice": 700,
+    "priceInr": 63000,
+    "description": ""
+  },
+  {
+    "brand": "Prada",
+    "productName": "Rose Diagram Leather",
+    "image": "./assets/images/prada/prada-02.jpg",
+    "storePrice": 1200,
+    "ourPrice": 900,
+    "priceInr": 80000,
+    "description": ""
+  },
+  {
+    "brand": "Prada",
+    "productName": "Metallic Gold",
+    "image": "./assets/images/prada/prada-03.jpg",
+    "storePrice": 1990,
+    "ourPrice": 1400,
+    "priceInr": 125000,
+    "description": ""
+  },
+  {
+    "brand": "Prada",
+    "productName": "Grain Metallic Gold Sling",
+    "image": "./assets/images/prada/prada-04.jpg",
+    "storePrice": 1600,
+    "ourPrice": 1200,
+    "priceInr": 108000,
+    "description": ""
+  }
+]

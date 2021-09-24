@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "Valentino",
+    "productName": "Valentino Hobo Shoulder Bag",
+    "image": "./assets/images/valentino/vt-01.JPG",
+    "storePrice": 1850,
+    "ourPrice": 1000,
+    "priceInr": 90000,
+    "description": ""
+  },
+  {
+    "brand": "Valentino",
+    "productName": "Valentino Red Shoulder Bag",
+    "image": "./assets/images/valentino/vt-02.JPG",
+    "storePrice": 1720,
+    "ourPrice": 1300,
+    "priceInr": 117000,
+    "description": ""
+  },
+  {
+    "brand": "Valentino",
+    "productName": "Valentino Pattern Shoulder Bag",
+    "image": "./assets/images/valentino/vt-04.JPG",
+    "storePrice": 1950,
+    "ourPrice": 1400,
+    "priceInr": 126000,
+    "description": ""
+  },
+  {
+    "brand": "Valentino",
+    "productName": "Valentino Gold Shoulder Bag",
+    "image": "./assets/images/valentino/vt-03.JPG",
+    "storePrice": 2750,
+    "ourPrice": 1850,
+    "priceInr": 166500,
+    "description": ""
+  }
+]
